@@ -89,4 +89,3 @@ letra_i(numero)
 letra_z(numero)
 letra_x(numero)
 numero_cero(numero)
-#Me faltó el arbol de navidad, imposible hacer el tronco y la base
